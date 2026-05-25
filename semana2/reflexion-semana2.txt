@@ -1,0 +1,1 @@
+es importante que un desarrollador sepa usar la terminal porque le permite trabajar de forma mas rapiday organizada dentro de un proyecto con la terminal puede crear carpetas,mover archivos y ejecutar comandos importantes sin depender solo de ma parte visual del computador.
