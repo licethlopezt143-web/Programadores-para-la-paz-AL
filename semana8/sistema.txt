@@ -1,0 +1,2 @@
+uname -a: muestra información completa del sistema operativo
+whoami: muestra el nombre del usuario actual con el que se está ejecutando la sesión

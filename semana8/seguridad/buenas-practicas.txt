@@ -1,0 +1,3 @@
+echo "1. Proteger contraseñas utilizando claves seguras y únicas." > buenas-practicas.txt
+echo "2. No compartir credenciales ni información confidencial con otras personas." >> buenas-practicas.txt
+echo "3. Mantener el sistema operativo y los programas actualizados para corregir vulnerabilidades de seguridad." >> buenas-practicas.txt
