@@ -1,0 +1,17 @@
+Entidad: Causa
+
+* id: Identificador único de la causa.
+* titulo: Nombre breve que identifica la causa comunitaria.
+* descripcion: Explicación detallada de la necesidad o solicitud presentada.
+* fecha: Fecha en la que la causa fue registrada en la plataforma.
+
+La entidad Causa sirve para almacenar y organizar la información de cada iniciativa o petición ciudadana presentada por la comunidad.
+
+Entidad: Apoyo
+
+* id: Identificador único del apoyo registrado.
+* causa_id: Identificador de la causa a la que pertenece el apoyo.
+* nombre: Nombre de la persona que apoya la causa (siempre que haya autorizado compartir este dato).
+* fecha: Fecha en la que se registró el apoyo ciudadano.
+
+La entidad Apoyo sirve para registrar y contabilizar las personas que respaldan una causa comunitaria, permitiendo evidenciar el interés y la participación ciudadana de forma organizada y transparente.

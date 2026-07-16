@@ -1,0 +1,6 @@
+1. Un ciudadano ingresa a la plataforma y crea una causa comunitaria describiendo la necesidad o solicitud.
+2. La causa queda registrada de forma segura en la base de datos del sistema.
+3. Otros ciudadanos pueden consultar las causas publicadas y brindar su apoyo de manera voluntaria.
+4. El sistema registra y contabiliza automáticamente el número de apoyos recibidos por cada causa.
+5. Cuando la causa reúne la información necesaria, el sistema genera un documento con la petición y el resumen de los apoyos registrados.
+6. La petición puede ser enviada o presentada ante las autoridades correspondientes para dar visibilidad a las necesidades de la comunidad.

@@ -1,0 +1,5 @@
+Evento: Se registra un nuevo apoyo ciudadano a una causa comunitaria.
+
+Mensaje: “Se ha registrado un nuevo apoyo en la plataforma Petición en 3 Clics. Ingresa al panel de administración para consultar la información autorizada.”
+
+Información que no debe enviarse: números de cédula, teléfonos, direcciones, correos electrónicos, contraseñas, comentarios sensibles ni ningún otro dato personal de las personas que participan en la plataforma.
